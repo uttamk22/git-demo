@@ -1,5 +1,3 @@
-0This is the new file
+Website Content:
 
-I am adding new data
-
-some more new data
+Index file
